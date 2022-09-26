@@ -1,5 +1,6 @@
 # MentalBreakdown
-A cool VR videogame programmed in C++ by the students of Videogames and Virtual Reality Development. (Unreal Engine)
+A cool VR videogame programmed in C++ by the students of Videogames and Virtual Reality Development. 
+(Unreal Engine)
 
 
 Produced by:
